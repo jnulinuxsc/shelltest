@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "test"
-b="yyyabc"
+b="xxxabc"
 a="xxxabc"
 echo $a
